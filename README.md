@@ -38,12 +38,6 @@ A Java-based simulator for visualizing demand paging with FIFO, LRU, MRU, and OP
 - Manual and auto-play simulation modes
 - Bar chart comparison of page faults
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/FarisMujacic/Virtual-Memory-Simulator.git
-   cd Virtual-Memory-Simulator
 
 ## 👨‍💻 Authors
 
