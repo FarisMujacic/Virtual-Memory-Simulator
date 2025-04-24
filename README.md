@@ -5,6 +5,12 @@ A Java-based simulator for visualizing demand paging with FIFO, LRU, MRU, and OP
 ## 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/5ef61740-be85-4cc1-90c7-cae820416ce3)
+![image](https://github.com/user-attachments/assets/b4966b00-ee4b-4b1c-8a3b-dae0e60cc016)
+![image](https://github.com/user-attachments/assets/a832ba92-1b31-4201-8793-b9bfa5c40dc6)
+![image](https://github.com/user-attachments/assets/2d67ff29-2725-4e07-ab80-676feb4913e9)
+![image](https://github.com/user-attachments/assets/3fd95a9d-ec97-4344-af10-8379888c9731)
+![image](https://github.com/user-attachments/assets/23c20425-cece-4c32-a6b5-f2df8b775bda)
+![image](https://github.com/user-attachments/assets/0804f90b-8971-4662-a96e-4485affb586e)
 
 
 - Visual feedback for page hits (green) and page faults (red)
